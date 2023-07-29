@@ -1,2 +1,2 @@
 # latihan_git
-ini adalah repository baru 
+ini adalah repository baru, universitas teknokrat indonesia
